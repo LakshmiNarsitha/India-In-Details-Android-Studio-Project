@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tripura">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView98"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/tripura_culture" />
+
+        <TextView
+            android:id="@+id/textView263"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView264"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Agartala
+
+
+
+\nGOVERNOR : Ramesh Bais
+
+
+
+CHIEF MINISTER : Manik Saha" />
+
+        <TextView
+            android:id="@+id/textView265"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView99"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/download__5_" />
+
+        <TextView
+            android:id="@+id/textView266"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="State Animal : Phayre's Langur (Trachypithecus phayrei)
+
+\nState Bird : Green Imperial Pigeon (Ducula aenea)
+
+\nState Tree : Agar (Aquilaria malaccensis)
+
+\nState Flower : Nageswar (Mesua ferrea)
+
+
+\nState Fruit : Queen Pineapple (Ananas comosus)" />
+
+        <TextView
+            android:id="@+id/textView267"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView268"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Gomati
+
+\nManu River
+
+\nHaora River
+
+\nKhowai River" />
+
+        <TextView
+            android:id="@+id/textView269"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView100"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/download__6_" />
+
+        <TextView
+            android:id="@+id/textView270"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Unakoti
+
+\nNeermahal Palace
+
+\nUjjayanta Palace
+
+\nTripura Sundari Temple
+
+\nHeritage Park
+
+\nTripurasundari Temple" />
+
+        <TextView
+            android:id="@+id/textView271"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView101"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/untr" />
+
+        <TextView
+            android:id="@+id/textView272"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Tripura State Museum
+
+\nUjjayanta Palace" />
+
+        <TextView
+            android:id="@+id/textView273"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView274"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Rowa WLS
+
+\nClouded Leopard National Park
+
+\nBison National Park" />
+    </LinearLayout>
+
+</ScrollView>

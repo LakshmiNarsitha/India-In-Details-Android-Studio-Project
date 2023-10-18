@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".manipur">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView58"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/manipur_culture" />
+
+        <TextView
+            android:id="@+id/textView147"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView148"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Imphal
+
+\nGOVERNOR : Shri La. Ganesan
+
+\nCHIEF MINISTER : N. Biren Singh" />
+
+        <TextView
+            android:id="@+id/textView149"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView59"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/bd501a300106019b12bcebed6101bb2f" />
+
+        <TextView
+            android:id="@+id/textView150"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Emblem : Kangla Sha
+
+\nSong : Sana Leibak Manipur
+
+\nLanguage : Meitei language (Manipuri language)
+
+\nMammal : Sangai (Rucervus eldii eldii)
+
+\nBird : Nongyeen (Syrmaticus humiae)
+
+\nFish : Pengba
+
+\nFlower : Shirui lily (Lilium mackliniae)
+
+\nTree : Uningthou (Phoebe hainesiana)" />
+
+        <TextView
+            android:id="@+id/textView151"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView152"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Imphal River
+
+\nIril River
+
+\nThoubal River
+
+\nKuga River" />
+
+        <TextView
+            android:id="@+id/textView153"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView60"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/senapati1_fi" />
+
+        <TextView
+            android:id="@+id/textView154"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Senapati
+
+\nAndro
+
+\nImphal
+
+\nKhongjom
+
+\nukhrul
+
+\nChandel
+
+\nThoubal" />
+
+        <TextView
+            android:id="@+id/textView155"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView61"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/unescoosnssadvbagvgch" />
+
+        <TextView
+            android:id="@+id/textView156"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Keibul Lamjao Conservation Area
+
+\nINA Memorial
+
+\nImphal War Cemetry
+
+\nPeople Museum
+
+\nSacred Jackfruit Tree
+
+\nKangla Fort
+
+\nLoktak Lake" />
+    </LinearLayout>
+
+</ScrollView>

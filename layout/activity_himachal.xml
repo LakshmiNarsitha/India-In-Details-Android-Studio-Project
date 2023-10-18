@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".himachal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView34"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/himaa" />
+
+        <TextView
+            android:id="@+id/textView87"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:id="@+id/textView88"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL \nSummer Capital: Shimla    \nWinter Capital: Dharamshala
+\nGOVERNOR : Rajendra Vishwanath Arlekar
+\nCHIEF MINISTER : Jai Ram Thakur" />
+
+        <TextView
+            android:id="@+id/textView89"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView35"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/hiimas" />
+
+        <TextView
+            android:id="@+id/textView90"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="State emblem : Emblem of Himachal Pradesh
+\nState motto : सत्यमेव जयते (Satyameva Jayate)
+\nState animal : Snow leopard (Uncia uncia)
+\nState bird : Western tragopan (Tragopan melanocephalus)
+\nState fish : Golden Mahseer (Tor putitora)
+\nState flower : Pink rhododendron (Rhododendron campanulatum)
+\nState tree : Deodar cedar (Cedrus deodara)" />
+
+        <TextView
+            android:id="@+id/textView91"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="        MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView92"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text=" Chenab\nRavi\nBeas\nSutlej\nYamuna" />
+
+        <TextView
+            android:id="@+id/textView93"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView36"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/himaahhh" />
+
+        <TextView
+            android:id="@+id/textView94"
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:layout_height="wrap_content"
+            android:text="
+Hadimba Temple
+\nKangra Fort
+\nKey Monastery
+\nKalka Shimla Railway
+\nJaitak Fort
+\nBaijnath Temple
+\nChokling Monastery
+\nChamunda Devi Temple
+\nNaggar Castle
+\nKuthar Fort" />
+
+        <TextView
+            android:id="@+id/textView95"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES"/>
+
+        <ImageView
+            android:id="@+id/imageView37"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/taboo" />
+
+        <TextView
+            android:id="@+id/textView96"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="The Hadimba Devi Temple in Manali
+\nTabo monastery in the cold desert of Spiti Valley
+\nThe historical Kangra Fort
+\nThe Masroor Temples near Baijnath
+\nThe Indian Institute of Advanced Study" />
+    </LinearLayout>
+
+</ScrollView>

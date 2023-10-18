@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".karnataka">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/karkar" />
+
+        <TextView
+            android:id="@+id/textView107"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView108"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Bengaluru
+
+\nGOVERNOR : Thawar Chand Gehlot
+
+\nCHIEF MINISTER : Sri Basavaraj Bommai" />
+
+        <TextView
+            android:id="@+id/textView109"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView43"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/karnas" />
+
+        <TextView
+            android:id="@+id/textView110"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="State emblem : ಗಂಡಭೇರುಂಡ ಲಾಂಛನ Emblem of Karnataka
+\nState motto : ಸತ್ಯಮೇವ ಜಯತೆ (Satyameva Jayate)
+\nState song : ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ Jaya Bharata Jananiya Tanujate
+\nState animal : Indian elephant
+\nState bird : ನೀಲಕಂಠ ಪಕ್ಷಿ Indian roller
+\nState fish : Carnatic carp (Puntius carnaticus)
+\nState flower : Lotus
+\nState tree : ಶ್ರೀಗಂಧ ಮರ Sandalwood" />
+
+        <TextView
+            android:id="@+id/textView111"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="        MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView112"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Kaveri\nKrishna\nGodavari\nPalar" />
+
+        <TextView
+            android:id="@+id/textView113"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView44"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/mys" />
+
+        <TextView
+            android:id="@+id/textView114"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Hampi\nBandipur National Park\nCoorg\Mysore\nShivanasamudra Falls"/>
+
+        <TextView
+            android:id="@+id/textView115"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView45"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/hampi" />
+
+        <TextView
+            android:id="@+id/textView116"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Hampi\nPattakadal" />
+    </LinearLayout>
+
+</ScrollView>

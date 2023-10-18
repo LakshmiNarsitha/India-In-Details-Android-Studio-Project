@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tn">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView90"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/tamil_nadu" />
+
+        <TextView
+            android:id="@+id/textView241"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView242"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Chennai
+
+\nGOVERNOR : Banwarilal PurohitEdappadi K. Palaniswami
+
+\nCHIEF MINISTER : Edappadi K. Palaniswami" />
+
+        <TextView
+            android:id="@+id/textView243"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS"/>
+
+        <ImageView
+            android:id="@+id/imageView91"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/sddefault" />
+
+        <TextView
+            android:id="@+id/textView244"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Song : Invocation to Goddess Tamil
+
+\nDance : Bharatanatyam
+
+\nMammal : Nilgiri Tahr
+
+\nBird : Emerald dove
+
+\nFlower : Gloriosa lily
+
+\nFruit : Jackfruit
+
+\nTree : Palm Tree
+
+\nSport : Kabaddi" />
+
+        <TextView
+            android:id="@+id/textView245"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView246"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Adyar River
+
+\nAmaravati River
+
+\nAmbuliyar River
+
+\nBhavani River
+
+\nBambar River
+
+\nChittar
+
+\nCoonoor
+
+\nCooum
+
+\nGingee River
+
+\nGomukhi" />
+
+        <TextView
+            android:id="@+id/textView247"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView92"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/download__3_" />
+
+        <TextView
+            android:id="@+id/textView248"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Pondicherry – French Colony
+\nDhanushkodi
+\nHogenakkal
+\nKanyakumari" />
+
+        <TextView
+            android:id="@+id/textView249"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView93"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/briha" />
+
+        <TextView
+            android:id="@+id/textView250"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Mahabalipuram
+\nBrihadishvara Temple
+\nGaṅgaikoṇḍa ChōḻapuramTextView" />
+
+        <TextView
+            android:id="@+id/textView251"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView254"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Madumalai National Park
+\nThe Anamalai Tiger Reserve
+
+\nMukurthi National Park" />
+    </LinearLayout>
+
+</ScrollView>

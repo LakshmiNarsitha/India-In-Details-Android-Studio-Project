@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".odisha">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView74"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/images" />
+
+        <TextView
+            android:id="@+id/textView193"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView194"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Bhubaneswar
+
+\nGOVERNOR : Ganeshi Lal
+
+
+\nCHIEF MINISTER : Naveen Patnaik" />
+
+        <TextView
+            android:id="@+id/textView195"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS"/>
+
+        <ImageView
+            android:id="@+id/imageView75"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/whatsapp_image_2022_03_31_at_18_24_19_5" />
+
+        <TextView
+            android:id="@+id/textView196"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Song : Bande Utkala Janani
+
+\nDance : Odissi
+
+\nMammal : Sambar
+
+\nBird : Indian roller
+
+\nFish : Mahanadi mahseer
+
+\nFlower : Ashoka
+
+\nTree : Sacred Fig
+" />
+
+        <TextView
+            android:id="@+id/textView197"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView198"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Baitarani River
+
+\nBhargavi River
+
+\nBhede River
+
+\nBrahmani River
+
+\nBudhabalanga River
+
+\nChitroptala river
+
+\nDaya River
+
+\nDevi River " />
+
+        <TextView
+            android:id="@+id/textView199"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView76"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/winter_tourist_places_in_odisha" />
+
+        <TextView
+            android:id="@+id/textView200"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Bhubaneswar
+
+\nPuri
+
+\nKonark
+
+\nBargarh
+
+\nJeypore
+
+\nBarbil" />
+
+        <TextView
+            android:id="@+id/textView201"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView77"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/xuoq3mrw1bl31" />
+
+        <TextView
+            android:id="@+id/textView202"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Konark Sun Temple\nPuri Temple" />
+
+        <TextView
+            android:id="@+id/textView203"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView204"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Simlipal National Park
+\nBhitarkanika National Park
+\nTikarpada Wildlife Sanctuary
+\nChilika Wildlife Sanctuary
+\nSunabeda Wildlife Sanctuary
+\nKotagarh Wildlife Sanctuary
+
+" />
+    </LinearLayout>
+
+</ScrollView>

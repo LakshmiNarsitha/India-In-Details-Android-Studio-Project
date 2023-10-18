@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sikkim">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView86"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/sikkim_culture_2" />
+
+        <TextView
+            android:id="@+id/textView229"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView230"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Gangtok
+
+
+\nGOVERNOR : Ganga Prasad
+
+
+\nCHIEF MINISTER : Prem Singh Tamang
+
+" />
+
+        <TextView
+            android:id="@+id/textView231"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView87"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/_4ce6714990d5497bee70e47a4975be8" />
+
+        <TextView
+            android:id="@+id/textView232"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Motto : Conqueror of the three worlds
+
+\nSong : Jahan Bagcha Teesta Rangee
+
+\nMammal : Red Panda
+
+\nBird : Blood Pheasant
+
+\nFish : Copper Mahseer
+
+\nFlower : Noble dendrobium
+
+\nTree : Rhododendron" />
+
+        <TextView
+            android:id="@+id/textView233"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView234"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Teesta River
+
+\nRangeet River
+
+\nRangpo river
+
+\nLachen River
+
+\nRelli River
+
+\nJaldhaka River" />
+
+        <TextView
+            android:id="@+id/textView235"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES"  />
+
+        <ImageView
+            android:id="@+id/imageView88"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/tourists_places_to_visit_in_sikkim" />
+
+        <TextView
+            android:id="@+id/textView236"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Tsomgo Lake
+
+\nNathula Pass
+
+\nKanchenjunga Base Camp
+
+\nLachen
+
+\nLachung
+
+\nYumthang Valley" />
+
+        <TextView
+            android:id="@+id/textView237"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView89"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/download__2_" />
+
+        <TextView
+            android:id="@+id/textView238"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Khangchendzonga National Park" />
+
+        <TextView
+            android:id="@+id/textView239"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView240"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Khangchendzonga National Park
+
+\nBarsey Rhododendron Sancruary
+
+\nFambonglho Wildlife Sanctuary
+
+" />
+    </LinearLayout>
+
+</ScrollView>

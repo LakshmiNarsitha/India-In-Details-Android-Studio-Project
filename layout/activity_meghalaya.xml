@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".meghalaya">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView62"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/images" />
+
+        <TextView
+            android:id="@+id/textView157"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/textView158"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Shillong
+
+\nGOVERNOR : Tathagata Roy
+
+\nCHIEF MINISTER : Sangma" />
+
+        <TextView
+            android:id="@+id/textView159"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <TextView
+            android:id="@+id/textView160"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            android:textSize="20dp"
+            android:text="Anthem : Meghalaya Geet
+\nMammal : Clouded leopard (Neofelis nebulosa)
+\nBird : Hill myna (Gracula religiosa)
+\nFlower : Lady's Slipper Orchid (Paphiopedilum insigne)
+\nTree : Gamhar (Gmelina arborea)" />
+
+        <TextView
+            android:id="@+id/textView161"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView162"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Daring
+\nSanda
+\nBugi
+\nDareng
+\nSimsang
+" />
+
+        <TextView
+            android:id="@+id/textView163"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView64"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/images__2___1_" />
+
+        <TextView
+            android:id="@+id/textView164"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Cherrapunji
+\nBalpakram National Park
+\nShillong
+\nElephant Falls
+\nDouble-decker Living Root Bridge
+\nDon Bosco Museum
+\nKyllang Rock
+" />
+
+        <TextView
+            android:id="@+id/textView165"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView65"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/images__3___1_" />
+
+        <TextView
+            android:id="@+id/textView166"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="The Living Roots Bridge or the Jingkieng Jris" />
+
+        <TextView
+            android:id="@+id/textView167"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView168"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Nokrek National Park
+\nBalpakram National Park
+\nSiju Bird Sanctuary
+\nNongkhyllem Sanctuary
+\nBaghmara Reserve Forest" />
+    </LinearLayout>
+
+</ScrollView>

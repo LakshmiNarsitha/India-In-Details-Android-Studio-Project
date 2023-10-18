@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".telangana">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView94"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/telangana_culture_1" />
+
+        <TextView
+            android:id="@+id/textView252"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="    ADMINISRATIVE DETAILS"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/textView253"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="CAPITAL : Hyderabad
+
+
+
+\nGOVERNOR : Tamilisai Soundararajan
+
+
+
+\nCHIEF MINISTER : K Chandrasekhar Rao" />
+
+        <TextView
+            android:id="@+id/textView255"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="           STATE SYMBOLS" />
+
+        <ImageView
+            android:id="@+id/imageView95"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/download__4_" />
+
+        <TextView
+            android:id="@+id/textView256"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Mammal : Spotted deer
+
+\nBird : Indian Roller[10]
+
+\nFlower : Senna auriculata
+
+\nTree : Prosopis cineraria[10" />
+
+        <TextView
+            android:id="@+id/textView257"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="         MAJOR RIVERS" />
+
+        <TextView
+            android:id="@+id/textView258"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Godavari River
+
+\nKrishna River
+
+\nBhima River
+
+\nManjira River" />
+
+        <TextView
+            android:id="@+id/textView259"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="HISRORICAL AND TOURIST PLACES" />
+
+        <ImageView
+            android:id="@+id/imageView96"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/_49844992hyderabad_main_thumb" />
+
+        <TextView
+            android:id="@+id/textView260"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Hyderabad
+
+\nPapikondalu
+
+\nNagarjunsagar
+
+\nWarangal
+
+\nBhadrachalam
+
+\nAdilabad" />
+
+        <TextView
+            android:id="@+id/textView261"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="UNESCO HERITAGE SITES" />
+
+        <ImageView
+            android:id="@+id/imageView97"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"
+            app:srcCompat="@drawable/e7jaxwbvea0dfnl" />
+
+        <TextView
+            android:id="@+id/textView262"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Kakatiya Rudreshwara (Ramappa) Temple" />
+
+        <TextView
+            android:id="@+id/textView276"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="      NATIONAL PARKS" />
+
+        <TextView
+            android:id="@+id/textView277"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Pakhal Lake And Wildlife Sanctuary
+
+\nEturnagaram Sanctuary
+
+\nKinnerasani Wildlife Sanctuary
+
+\nMrugavani National Park
+
+\nKBR National Park
+
+" />
+
+    </LinearLayout>
+
+</ScrollView>
